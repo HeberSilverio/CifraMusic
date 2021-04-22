@@ -1,0 +1,25 @@
+{
+  "name": "CifraMusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeberSilverio/CifraMusic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeberSilverio/CifraMusic/issues"
+  },
+  "homepage": "https://github.com/HeberSilverio/CifraMusic#readme",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
